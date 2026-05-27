@@ -1,2 +1,2 @@
-# token-bucket-service
+# token-buckets-service
 Rate limiting token bucket implementation
